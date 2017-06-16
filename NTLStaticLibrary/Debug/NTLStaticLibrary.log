@@ -1,0 +1,176 @@
+﻿  ZZ_pXFactoring.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  ZZ_pXCharPoly.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  ZZ_pX1.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  ZZ_pX.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  ZZ_pEXFactoring.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  ZZ_pEX.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  ZZ_pE.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  ZZ_p.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  ZZXFactoring.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\zzxfactoring.cpp(1280): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\zzxfactoring.cpp(1282): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZXCharPoly.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  ZZX1.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\zzx1.cpp(685): warning C4101: i: неиспользованная локальная переменная
+  ZZX.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  ZZVec.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  ZZ.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\zz.cpp(369): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\zz.cpp(634): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\zz.cpp(652): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\zz.cpp(2133): warning C4244: =: преобразование "unsigned long" в "unsigned char", возможна потеря данных
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\zz.cpp(2134): warning C4244: =: преобразование "unsigned long" в "unsigned char", возможна потеря данных
+  xdouble.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  WordVector.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  vec_ZZ_pE.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  vec_ZZ_p.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  vec_ZZ.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  vec_RR.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  Создание кода...
+  Компиляция...
+  vec_lzz_pE.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  vec_lzz_p.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\vec_lzz_p.cpp(10): warning C4101: i: неиспользованная локальная переменная
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\vec_lzz_p.cpp(21): warning C4101: i: неиспользованная локальная переменная
+  vec_GF2E.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  vec_GF2.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  tools.cpp
+  thread.cpp
+  RR.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  quad_float.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\quad_float.cpp(614): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  mat_ZZ_pE.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  mat_ZZ_p.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  mat_ZZ.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  mat_RR.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  mat_poly_ZZ_p.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  mat_poly_ZZ.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  mat_poly_lzz_p.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  mat_lzz_pE.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  mat_lzz_p.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  mat_GF2E.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  mat_GF2.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  lzz_pXFactoring.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  Создание кода...
+  Компиляция...
+  lzz_pXCharPoly.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  lzz_pX1.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  lzz_pX.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\lzz_px.cpp(1342): warning C4101: i: неиспользованная локальная переменная
+  lzz_pEXFactoring.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  lzz_pEX.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  lzz_pE.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  lzz_p.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  LLL_XD.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  LLL_RR.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  LLL_QP.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  LLL_FP.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  LLL.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  lip.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\c_lip_impl.h(1784): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\c_lip_impl.h(1832): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\c_lip_impl.h(1917): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\c_lip_impl.h(5631): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\c_lip_impl.h(5684): warning C4101: c: неиспользованная локальная переменная
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\c_lip_impl.h(5829): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\c_lip_impl.h(6755): warning C4099: _ntl_general_rem_one_struct: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+  c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\c_lip_impl.h(6755): note:  см. объявление "_ntl_general_rem_one_struct"
+  HNF.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  G_LLL_XD.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  G_LLL_RR.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  G_LLL_QP.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  G_LLL_FP.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  GF2XVec.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  GF2XFactoring.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  Создание кода...
+  Компиляция...
+  GF2X1.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  GF2X.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  GF2EXFactoring.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  GF2EX.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  GF2E.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  GF2.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  GetTime.cpp
+  GetPID.cpp
+  fileio.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\fileio.cpp(60): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\fileio.cpp(119): warning C4244: инициализация: преобразование "time_t" в "unsigned long", возможна потеря данных
+  FFT.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\fft.cpp(640): warning C4101: j: неиспользованная локальная переменная
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\fft.cpp(663): warning C4101: j: неиспользованная локальная переменная
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\fft.cpp(663): warning C4101: i: неиспользованная локальная переменная
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\fft.cpp(711): warning C4101: j: неиспользованная локальная переменная
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\fft.cpp(734): warning C4101: j: неиспользованная локальная переменная
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\src\fft.cpp(734): warning C4101: i: неиспользованная локальная переменная
+  FacVec.cpp
+c:\users\kopni\desktop\rsantlconsole\ntlstaticlibrary\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  ctools.cpp
+  BasicThreadPool.cpp
+  Создание кода...
+BasicThreadPool.obj : warning LNK4221: ▌ЄюЄ Їрщы юс·хъЄр эх юяЁхфхы хЄ ъръшх-ышсю Ёрэхх эхюяЁхфхыхээ√х юЄъЁ√Є√х ёшьтюы√, яю¤Єюьє юэ эх сєфхЄ шёяюы№чютрЄ№ё  эшъръшьш юяхЁрЎш ьш ъюьяюэютъш, юсЁр∙р■∙шьшё  ъ ¤Єющ сшсышюЄхъх
+  NTLStaticLibrary.vcxproj -> C:\Users\kopni\Desktop\RSANTLConsole\Debug\NTLStaticLibrary.lib
