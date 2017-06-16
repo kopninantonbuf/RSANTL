@@ -1,0 +1,10 @@
+﻿  RSAConsole.cpp
+C:\Users\kopni\Desktop\RSANTLConsole\NTLStaticLibrary\include\NTL/sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+RSAConsole.cpp(135): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+  Создание кода
+  0 of 691 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    47 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  RSAConsole.vcxproj -> C:\Users\kopni\Desktop\RSANTLConsole\Release\RSAConsole.exe
+  RSAConsole.vcxproj -> C:\Users\kopni\Desktop\RSANTLConsole\Release\RSAConsole.pdb (Full PDB)
